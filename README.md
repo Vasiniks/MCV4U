@@ -7,6 +7,7 @@ Grade 12 Calculus & Vectors. Units, handouts, solved worksheets, quizzes, a 3D l
 ## Units
 
 - **Unit 3 — Lines & Planes** (`unit-3-lines-and-planes/` source files, guide at `docs/lines-planes/`): vector, parametric, symmetric and Cartesian equations of a line in R², lines in R³, minimum distance from a point to a line, linear combinations and coplanar vectors, vector and Cartesian equations of a plane, unit review summary sheet, review questions, quest review package.
+- **Unit 4 — Intersections of Lines & Planes** (`unit-4-intersections/` source files, guide at `docs/intersections/`): solving systems algebraically and with matrices/augmented matrices/REF/RREF, intersection of two lines (intersecting/coincident/parallel distinct/skew), intersection of line and plane, intersection of two planes (line/direction via cross product/angle), intersection of three planes (unique point/line/plane/no solution — two parallel cut by third / three parallel / triangular prism), k-value extensions, foot of perpendicular, distance to plane, angle, where line hits coordinate plane.
 - Future units go in `unit-N-name/` folders with the same layout (source files as exported from class), plus a matching `docs/<unit>/` guide linked from the hub.
 
 ## Study site
